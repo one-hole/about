@@ -1,6 +1,6 @@
 <template>
   <el-footer>
-    <span>© 一禾信息科技有限公司 </span>
+    <span>© 一禾信息 </span>
   </el-footer>
 </template>
 
